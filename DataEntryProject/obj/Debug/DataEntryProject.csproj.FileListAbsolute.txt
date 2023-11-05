@@ -1,0 +1,10 @@
+C:\Users\hassa\OneDrive\Bureau\Winform Windows C#\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.exe.config
+C:\Users\hassa\OneDrive\Bureau\Winform Windows C#\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.exe
+C:\Users\hassa\OneDrive\Bureau\Winform Windows C#\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.pdb
+C:\Users\hassa\OneDrive\Bureau\Winform Windows C#\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.AssemblyReference.cache
+C:\Users\hassa\OneDrive\Bureau\Winform Windows C#\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.FmrDataEntry.resources
+C:\Users\hassa\OneDrive\Bureau\Winform Windows C#\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.Properties.Resources.resources
+C:\Users\hassa\OneDrive\Bureau\Winform Windows C#\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.GenerateResource.cache
+C:\Users\hassa\OneDrive\Bureau\Winform Windows C#\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.CoreCompileInputs.cache
+C:\Users\hassa\OneDrive\Bureau\Winform Windows C#\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.exe
+C:\Users\hassa\OneDrive\Bureau\Winform Windows C#\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.pdb
